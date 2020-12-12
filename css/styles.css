@@ -44,6 +44,7 @@ h4 {
 }
 .box {
     border-radius: 10px;
+    box-shadow: 5px 5px 30px hsl(0, 0%, 81%);
     display: inline-block;
     position: relative;
     margin: 0 25px 20px 0;
