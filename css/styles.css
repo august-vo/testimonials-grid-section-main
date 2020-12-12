@@ -139,7 +139,7 @@ h4 {
 }
 
 /* MEDIA QUERY */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 960px) {
     .frame {
         margin: 10vw auto;
         width: 80vw;
