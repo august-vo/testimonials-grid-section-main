@@ -137,3 +137,23 @@ h4 {
 .profile5 {
     border-color: white;
 }
+
+/* MEDIA QUERY */
+@media screen and (max-width: 480px) {
+    .frame {
+        margin: 10vw auto;
+        width: 80vw;
+    }
+    .left {
+        display: block;
+    }
+    
+    .right {
+        display: block;
+    }
+
+    .box {
+        display: block;
+        width: 100%;
+    }
+}
